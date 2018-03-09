@@ -36,7 +36,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #ifndef opts_GCC_h
 #define opts_GCC_h 1
-
+#if 0
 #ifdef INLINE
 
 #include <stdint.h>
@@ -110,5 +110,6 @@ void
 
 #endif
 
+#endif
 #endif
 
